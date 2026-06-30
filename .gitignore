@@ -1,0 +1,4 @@
+# no se debe incuir los entornos virtuales
+.mi_emv/
+
+__pycache__/
